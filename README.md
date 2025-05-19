@@ -8,7 +8,7 @@ This project aims to measure the similarity between legal case documents using a
 
 The graph below shows how the weights of each model (Doc2Vec, SBERT, Longformer) change over time as the system adapts based on human (lawyer) feedback:
 
-![Model Weight Learning Graph](graph.png)
+![Model Weight Learning Graph](new_graph.png)
 
 ---
 
